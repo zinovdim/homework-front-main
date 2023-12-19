@@ -34,5 +34,5 @@ export const UserList = (props: UserListPropsType) => {
                 })}
             </ul>
         </div>
-    );
+    )
 };
